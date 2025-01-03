@@ -45,18 +45,11 @@ p {
     margin-bottom: 15px;
 }
 
-footer {
-    margin-top: 30px;
-    border: dotted #111111 ;
-    border-radius: .5rem;
-    padding: 14px;
-    background-color: #C0C0C0;
-}
+
 .footer-text{
     font-size: 12px;
-    font-style: italic;
-    font-weight: 200;
-}
+   
+} 
 
 /* Media Queries */
 @media screen and (max-width: 768px) {
